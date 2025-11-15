@@ -1,3 +1,0 @@
-The override button's functionality has been moved to the pulse button as the dedicated override button no longer works.
-If you wish to pulse, press the green (or red) button twice to turn it on and then off again quickly.
-All other functionality remains the same.
