@@ -1,0 +1,7 @@
+{
+  "servertype": "jlink",
+  "device": "ATSAMD21G18",
+  "interface": "SWD",
+  "serverpath": "C:/Program Files/SEGGER/JLink/JLinkGDBServerCL",
+  "port": 2331
+}

@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "cwd": "${workspaceRoot}",
+      "name": "Arduino",
+      "request": "launch",
+      "type": "cortex-debug",
+      "executable": "C:\\Users\\Oleh\\AppData\\Local\\Temp\\arduino\\sketches\\85C1A30ED24A8345EAB294FCD4A4716E/Vehicle-Detection-Device.ino.elf",
+      "servertype": "jlink",
+      "serverpath": "C:/Program Files/SEGGER/JLink_V792o/JLinkGDBServerCL",
+      "armToolchainPath": "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\adafruit\\tools\\arm-none-eabi-gcc\\9-2019q4/bin/",
+      "configFiles": [
+        "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.7.13/scripts/openocd/daplink_samd21.cfg"
+      ],
+      "device": "ATSAMD21G18",
+      "interface": "SWD",
+      "port": 2331
+    }
+  ]
+}
